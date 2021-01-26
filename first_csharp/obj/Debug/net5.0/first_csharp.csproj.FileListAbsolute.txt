@@ -1,0 +1,16 @@
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\bin\Debug\net5.0\first_csharp.exe
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\bin\Debug\net5.0\first_csharp.deps.json
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\bin\Debug\net5.0\first_csharp.runtimeconfig.json
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\bin\Debug\net5.0\first_csharp.runtimeconfig.dev.json
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\bin\Debug\net5.0\first_csharp.dll
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\bin\Debug\net5.0\ref\first_csharp.dll
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\bin\Debug\net5.0\first_csharp.pdb
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\obj\Debug\net5.0\first_csharp.csprojAssemblyReference.cache
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\obj\Debug\net5.0\first_csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\obj\Debug\net5.0\first_csharp.AssemblyInfoInputs.cache
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\obj\Debug\net5.0\first_csharp.AssemblyInfo.cs
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\obj\Debug\net5.0\first_csharp.csproj.CoreCompileInputs.cache
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\obj\Debug\net5.0\first_csharp.dll
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\obj\Debug\net5.0\ref\first_csharp.dll
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\obj\Debug\net5.0\first_csharp.pdb
+E:\DROPBOX-2021\Dropbox\_CODING_DOJO\first_csharp\obj\Debug\net5.0\first_csharp.genruntimeconfig.cache
