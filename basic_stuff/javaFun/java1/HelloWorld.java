@@ -1,3 +1,6 @@
+package basic_stuff.javaFun.java1;
+
+
 public class HelloWorld {
     public static void main(String[] args) {
 

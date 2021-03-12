@@ -1,3 +1,5 @@
+package basic_stuff.javaFun.Pythagorean;
+
 public class Pythagorean {
     public double calculateHypotenuse(int legA, int legB) {
         // the hypotenuse is the side across from the right angle. 

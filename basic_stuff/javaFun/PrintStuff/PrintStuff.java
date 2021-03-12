@@ -1,3 +1,5 @@
+package basic_stuff.javaFun.PrintStuff;
+
 public class PrintStuff {
     public static void main(String[] args) {
 
